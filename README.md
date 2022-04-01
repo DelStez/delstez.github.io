@@ -7,6 +7,8 @@
 
 # My hobby
 <div align="Center">
-  <a href="https://app.hackthebox.com/profile/534140"><img src="https://user-images.githubusercontent.com/50168261/161277954-ddbeb96a-3d65-4a69-a542-413456999313.png" width="650" 
-  height="350" alt="Пример"></a>
+  <a href="https://tryhackme.com/p/DelStez"><img src="https://tryhackme-badges.s3.amazonaws.com/DelStez.png" alt="TryHackMe"></a>
+  <a href="https://app.hackthebox.com/profile/534140"><img src="https://www.hackthebox.eu/badge/image/534140"></a>
   </div>
+  
+  
