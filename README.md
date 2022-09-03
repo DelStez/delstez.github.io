@@ -1,6 +1,5 @@
 ## My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DelStez&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&count_private=true&)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelStez&show_icons=true&theme=nightowl&hide_border=true&hide_title=false&count_private=true)](https://github.com/DelStez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelStez&show_icons=true&theme=nightowl&layout=compact&hide_border=true)](https://github.com/DelStez/github-readme-stats)
 
 ## My hobby
